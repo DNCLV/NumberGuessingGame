@@ -6,5 +6,4 @@ The Number Guessing Game is a game of 5 rounds where the user has to guess The C
 Future editions to the program:
 
 1. Make a highscore list - perhaps made with hashmap (key and value pair)
-2. Cleaner main method - all the code is writting in the main method, which is far from ideal
-3. 
+2. Cleaner main method - all the code is writting in the main method, which is far from ideal.
