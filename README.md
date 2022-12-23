@@ -1,9 +1,14 @@
 # NumberGuessingGame
-My first ever program I created in Java using Eclipse.
 
-The Number Guessing Game is a game of 5 rounds where the user has to guess The Chosen Number based on a "lower" or "higher" clue, which is received after guessing. The program uses Math.random to random generate a Chosen Number between 1 and 100, which the user has to guess within 5 tries.
+The Number Guessing Game is a game of 5 rounds where the player has to guess a random generated number between 1 and 100 (inclusive) based on a "lower" or "higher" clue, which is received after guessing.
 
-Future editions to the program:
+The program uses the following:
 
-1. Make a highscore list - perhaps made with hashmap (key and value pair)
-2. Cleaner main method - all the code is writting in the main method, which is far from ideal.
+* Conditional statements
+* Math.random
+* java.util.Scanner;
+
+
+** Program is still in progress. See issues tab for future improvement ideas**
+
+//DNCLV
